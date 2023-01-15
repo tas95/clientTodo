@@ -37,7 +37,7 @@ jobs:
         # Literal body:
         body: Build job of ${{github.repository}} completed successfully!
         # Read file contents as body:
-        to: abdelaziztasnim95@gmail.com
+        to: abdelaziztasnim95@gmail.com,baltiabir88@gmail.com,chihaouinermine@gmail.com
 
         from: ${{secrets.MAIL_USERNAME}}
         # Optional content type (defaults to text/plain):
